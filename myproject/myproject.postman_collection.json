@@ -1,0 +1,44 @@
+{
+	"id": "c24e8d09-7f84-5f86-7cd7-e28a5c77d43d",
+	"name": "myproject",
+	"description": "",
+	"order":"a39e9fc7-fc1c-a04b-b5e0-16bcc98e8fd0",
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1515471968750,
+	"owner": "3426983",
+	"public": false,
+	"requests": [
+		{
+			"id": "a39e9fc7-fc1c-a04b-b5e0-16bcc98e8fd0",
+			"headers": "",
+			"headerData": [],
+			"url": "localhost:8080/emp/file/upload",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "c24e8d09-7f84-5f86-7cd7-e28a5c77d43d",
+			"data": [
+				{
+					"key": "file",
+					"value": "",
+					"description": "",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "localhost:8080/emp/file/upload",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1515471976385,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}
